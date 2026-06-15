@@ -9,7 +9,7 @@ const data = {
       type: "soirée entreprise",
       date: "2022-04-29T20:28:45.744Z",
       title: "Conférence #productCON",
-      cover: "/images/stem-list-EVgsAbL51Rk-unsplash.png",
+      cover: "images/stem-list-EVgsAbL51Rk-unsplash.png",
       description:
         "Présentation des outils analytics aux professionnels du secteur",
       nb_guesses: 1300,
@@ -27,7 +27,7 @@ const data = {
       type: "forum",
       date: "2022-04-29T20:28:45.744Z",
       title: "Forum #productCON",
-      cover: "/images/stem-list-EVgsAbL51Rk-unsplash.png",
+      cover: "images/stem-list-EVgsAbL51Rk-unsplash.png",
       description:
         "Présentation des outils analytics aux professionnels du secteur",
       nb_guesses: 1300,
